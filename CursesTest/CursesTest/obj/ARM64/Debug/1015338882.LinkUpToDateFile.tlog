@@ -1,0 +1,1 @@
+g++ -o "/home/harry/projects/CursesTest/bin/ARM64/Debug/CursesTest.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/harry/projects/CursesTest/obj/ARM64/Debug/main.o -lncurses
